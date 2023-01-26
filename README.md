@@ -12,5 +12,6 @@ These Notebooks Contain:
     * PCA
   * How to use Pandas and Scikit Learn libraries for data wrangling and preprocessing.
   * How to perform hyperparameters tuning using various methods and packages.
-  * Explanation for Feature Engineering, Feature Selection and Feature Extraction and how to implement some of these methods.
+  * Explanation for Feature Engineering, Feature Selection and Feature Extraction and how to implement some of these methods.<br>
+
 **NOTE:** there is no deep learning here.
