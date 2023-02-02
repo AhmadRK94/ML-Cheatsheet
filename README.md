@@ -15,5 +15,5 @@ These Notebooks Contain:
   * Explanation for Feature Engineering, Feature Selection, and Feature Extraction and how to implement some of these methods.<br>
 
 **NOTE:** there is no deep learning here.<br>
-**NOTE:** it is not complete, but complete enough :)
+**NOTE:** still ongoing project (last update: August 2022)
 
