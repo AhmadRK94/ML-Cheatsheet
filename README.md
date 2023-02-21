@@ -1,4 +1,4 @@
-# MLBeginner
+# Machine Learning Cheat Sheet
 These Notebooks Contain:
   * Explaining Various machine learning algorithms concepts and implementing them using libraries like scikit learn.
   * Implementing various machine learning algorithms from scratch:
